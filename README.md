@@ -29,6 +29,6 @@ Pretrained model link: https://drive.google.com/drive/folders/1OFqK9A7fF4MsDSEos
 
 ## Results
 
-My model achieves the performance 0.59078 on :
+My model achieves the performance 0.59078 on 
 Tabular Playground Series - Aug 2022
 https://www.kaggle.com/competitions/tabular-playground-series-aug-2022/overview
