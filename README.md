@@ -12,6 +12,11 @@ To install requirements:
 ```setup
 pip install -r requirements.txt
 ```
+tensorflow 2.11.0
+keras 2.11.0
+numpy 1.22.3
+pandas 1.4.2
+matplotlib 3.5.1
 
 ## Training
 
